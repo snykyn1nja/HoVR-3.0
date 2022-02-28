@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HoVR",
+			"Path": "N:\\GitHub\\HoVR-3.0\\HovR2\\HoVR\\Source\\HoVR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HoVREditor",
+			"Path": "N:\\GitHub\\HoVR-3.0\\HovR2\\HoVR\\Source\\HoVREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
