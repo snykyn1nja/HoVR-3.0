@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HoVR.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5385EA90-69B5-4885-820A-AD1D97A66B4C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HoVR.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HoVREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1C591338-1D19-40BE-977D-C2D8CD3FE045}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HoVR">
+      <UniqueIdentifier>{E977755E-5579-43DE-B583-12015CD45E71}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HoVR\ActuateMotionComponent.cpp">
+      <Filter>Source\HoVR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HoVR\ActuateMotionComponent.h">
+      <Filter>Source\HoVR</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\HoVR\HoVR.Build.cs">
+      <Filter>Source\HoVR</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HoVR\HoVR.cpp">
+      <Filter>Source\HoVR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HoVR\HoVR.h">
+      <Filter>Source\HoVR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HoVR\MyActor.cpp">
+      <Filter>Source\HoVR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HoVR\MyActor.h">
+      <Filter>Source\HoVR</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
