@@ -961,3 +961,852 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.01-10.41.02:437][154]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.01-10.41.02:437][154]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2022.03.01-10.41.02:438][154]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-10.41.44:782][  4]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.01-10.41.44:789][  4]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.01-10.41.44:799][  4]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.01-10.41.53:839][ 89]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_HoverComponentMk2
+[2022.03.01-10.41.53:919][ 89]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.01-10.41.56:751][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-10.42.22:931][340]BlueprintLog: New page: Compile BP_HoverComponentMk2
+[2022.03.01-10.42.22:957][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.03.01-10.42.25:587][647]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-10.42.25:592][647]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-10.42.25:595][647]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.42.25:595][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.42.28:400][962]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-10.45.35:019][895]BlueprintLog: New page: Compile BP_HoverVehicleMk2
+[2022.03.01-10.45.35:111][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.03.01-10.45.35:841][951]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk2994CBA7C427D64429F156C97D023C257.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-10.45.35:854][951]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-10.45.35:854][951]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-10.45.37:269][ 80]LogSlate: Window 'BP_HoverVehicleMk2' being destroyed
+[2022.03.01-10.45.37:275][ 80]LogSlate: Window 'BP_HoverVehicleMk2' being destroyed
+[2022.03.01-10.45.37:277][ 80]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.45.37:277][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.45.38:998][261]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-10.45.42:966][664]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverComponentMk20186D3404F91EB6FBD292A86D01086B0.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.uasset'
+[2022.03.01-10.45.43:091][664]AssetCheck: New page: Asset Save: BP_HoverComponentMk2
+[2022.03.01-10.45.43:091][664]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-10.46.11:921][697]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-10.46.11:925][697]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-10.46.11:929][697]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.46.11:929][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.46.13:762][898]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-10.46.45:127][499]LogSlate: Window 'My Blueprint' being destroyed
+[2022.03.01-10.46.47:917][827]LogTabManager: Warning: Unable to insert tab 'Document'.
+[2022.03.01-10.46.47:917][827]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'Document'
+[2022.03.01-10.46.47:960][827]LogSlate: The tab "Document" attempted to spawn in layout 'Standalone_BlueprintDefaults_Layout_v6' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2022.03.01-10.46.56:228][794]LogSlate: Window 'Event Graph' being destroyed
+[2022.03.01-10.46.57:628][943]LogSlate: Window 'Event Graph' being destroyed
+[2022.03.01-10.47.02:045][348]LogSlate: Window 'Event Graph' being destroyed
+[2022.03.01-10.47.05:935][785]LogSlate: Window 'Event Graph' being destroyed
+[2022.03.01-10.47.23:220][765]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-10.47.23:228][765]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.47.23:228][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.47.23:265][765]LogSlate: Window 'HoVR - Unreal Editor' being destroyed
+[2022.03.01-10.47.23:344][765]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2022.03.01-10.47.23:344][765]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2022.03.01-10.47.23:344][765]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2022.03.01-10.47.23:344][765]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2022.03.01-10.47.23:344][765]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2022.03.01-10.47.23:344][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SourceControl
+[2022.03.01-10.47.23:344][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2022.03.01-10.47.23:344][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton
+[2022.03.01-10.47.23:344][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingQuality
+[2022.03.01-10.47.23:345][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo.LightingDensity
+[2022.03.01-10.47.23:345][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo.LightingResolution
+[2022.03.01-10.47.23:345][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo
+[2022.03.01-10.47.23:345][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.EditorModes
+[2022.03.01-10.47.23:346][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.CompileComboButton
+[2022.03.01-10.47.23:346][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2022.03.01-10.47.23:346][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2022.03.01-10.47.23:346][765]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar
+[2022.03.01-10.47.23:365][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-10.47.23:371][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-10.47.23:377][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-10.47.23:386][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-10.47.23:525][765]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-10.47.40:945][716]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-10.47.40:952][716]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.47.40:952][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.47.41:010][716]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-10.48.27:998][415]LogSlate: Took 0.004716 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.01-10.51.45:949][180]BlueprintLog: New page: Compile BP_HoverComponentMk2
+[2022.03.01-10.51.45:996][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.03.01-10.51.46:609][236]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverComponentMk2E86C22DB45BD9961898C9F9B5762F4EE.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.uasset'
+[2022.03.01-10.51.46:622][236]AssetCheck: New page: Asset Save: BP_HoverComponentMk2
+[2022.03.01-10.51.46:622][236]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-10.52.59:463][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.03.01-10.52.59:466][107]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.026
+[2022.03.01-10.52.59:466][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2] ([2] browsable assets)...
+[2022.03.01-10.52.59:466][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2]
+[2022.03.01-10.52.59:472][107]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverComponentMk2_Auto19BC9DC06451772E97A9647B0711CB6BE.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/Autosaves/Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2_Auto1.uasset'
+[2022.03.01-10.52.59:473][107]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.03.01-11.16.01:938][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.03.01-11.16.01:942][851]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.030
+[2022.03.01-11.16.01:943][851]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2] ([2] browsable assets)...
+[2022.03.01-11.16.01:943][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2]
+[2022.03.01-11.16.01:953][851]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverComponentMk2_Auto2DF6F4AB54F000CBAC3093D8EF54DC6B0.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/Autosaves/Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2_Auto2.uasset'
+[2022.03.01-11.16.01:954][851]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.03.01-11.16.09:276][874]BlueprintLog: New page: Compile BP_HoverComponentMk2
+[2022.03.01-11.16.09:313][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.03.01-11.16.10:053][926]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverComponentMk2007B5E1B49D70149DD4DF187F2753744.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.uasset'
+[2022.03.01-11.16.10:065][926]AssetCheck: New page: Asset Save: BP_HoverComponentMk2
+[2022.03.01-11.16.10:065][926]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-11.31.41:242][785]BlueprintLog: New page: Compile BP_HoverComponentMk2
+[2022.03.01-11.31.41:281][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.03.01-11.31.42:002][845]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverComponentMk2025CBB804D1961677685E3A098AB9740.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.uasset'
+[2022.03.01-11.31.42:013][845]AssetCheck: New page: Asset Save: BP_HoverComponentMk2
+[2022.03.01-11.31.42:013][845]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-11.34.29:929][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.03.01-11.34.29:930][931]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.024
+[2022.03.01-11.34.29:930][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2] ([2] browsable assets)...
+[2022.03.01-11.34.29:930][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2]
+[2022.03.01-11.34.29:942][931]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverComponentMk2_Auto3A4E397714C6236D9A745E79F2AC39317.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/Autosaves/Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2_Auto3.uasset'
+[2022.03.01-11.34.29:944][931]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.03.01-11.34.43:295][103]BlueprintLog: New page: Compile BP_HoverComponentMk2
+[2022.03.01-11.34.43:298][103]LogBlueprint: Error: [AssetLog] C:\Users\Tank\Documents\HoVR\GitHub\HovR2\HoVR\Content\ThirdPersonBP\VehicleMovement\BP_HoverComponentMk2.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2022.03.01-11.34.43:333][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.03.01-11.34.43:395][103]LogSlate: Took 0.007174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.01-11.34.59:451][903]BlueprintLog: New page: Compile BP_HoverComponentMk2
+[2022.03.01-11.34.59:488][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.03.01-11.35.17:985][193]BlueprintLog: New page: Compile BP_HoverComponentMk2
+[2022.03.01-11.35.18:024][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.03.01-11.35.18:717][252]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverComponentMk235CFF43148E98DCBC2FDA7A765084EA6.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.uasset'
+[2022.03.01-11.35.18:729][252]AssetCheck: New page: Asset Save: BP_HoverComponentMk2
+[2022.03.01-11.35.18:729][252]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-11.35.19:615][344]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-11.35.19:621][344]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-11.35.19:625][344]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-11.35.19:625][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.35.21:620][562]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-11.38.09:603][970]BlueprintLog: New page: Compile BP_HoverVehicleMk2
+[2022.03.01-11.38.09:644][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.03.01-11.38.10:546][ 48]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk29BEA8C6B439D52A5A9B6C78A0A4ECF53.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-11.38.10:556][ 48]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-11.38.10:556][ 48]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-11.41.43:529][566]BlueprintLog: New page: Compile BP_HoverVehicleMk2
+[2022.03.01-11.41.43:567][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.03.01-11.41.44:557][662]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk2028752B34130BED281EF299BBC373604.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-11.41.44:569][662]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-11.41.44:569][662]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-11.42.15:508][229]BlueprintLog: New page: Compile BP_HoverVehicleMk2
+[2022.03.01-11.42.15:548][229]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.03.01-11.42.16:243][288]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk21B5668794B55ECCAD0375AB6BEF4284C.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-11.42.16:254][288]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-11.42.16:254][288]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-11.42.19:061][590]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2022.03.01-11.44.52:633][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.03.01-11.44.52:636][745]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.025
+[2022.03.01-11.44.52:637][745]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2] ([4] browsable assets)...
+[2022.03.01-11.44.52:647][745]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2]
+[2022.03.01-11.44.52:656][745]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2]
+[2022.03.01-11.44.52:656][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2]
+[2022.03.01-11.44.52:667][745]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk2_Auto4EF5E3FC04E545C8436D60AA234BBADF0.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/Autosaves/Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2_Auto4.uasset'
+[2022.03.01-11.44.52:668][745]LogFileHelpers: Auto-saving content packages took 0.032
+[2022.03.01-11.45.35:915][907]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk26C6261AB447CFAEC4E298B8EA75E4C29.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-11.45.35:928][907]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-11.45.35:928][907]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-11.45.36:728][977]BlueprintLog: New page: Compile BP_HoverVehicleMk2
+[2022.03.01-11.45.36:770][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.03.01-11.45.38:224][ 84]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk2B8F11950403C4D6AB7D7B88882590C48.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-11.45.38:234][ 84]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-11.45.38:234][ 84]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-11.45.39:164][158]LogSlate: Window 'BP_HoverVehicleMk2' being destroyed
+[2022.03.01-11.45.39:169][158]LogSlate: Window 'BP_HoverVehicleMk2' being destroyed
+[2022.03.01-11.45.39:173][158]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-11.45.39:173][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.45.42:523][356]LogEditorViewport: Clicking on Actor (LMB): BP_HoverVehicle_C (BP_HoverVehicle)
+[2022.03.01-11.45.44:722][611]Cmd: DELETE
+[2022.03.01-11.45.44:722][611]Cmd: ACTOR DELETE
+[2022.03.01-11.45.44:725][611]LogEditorActor: Deleted Actor: BP_HoverVehicle_C
+[2022.03.01-11.45.44:752][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.03.01-11.45.44:755][611]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.03.01-11.46.07:314][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.03.01-11.46.07:330][613]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMap17FC69444C643FD4FEDAE79E22DD56FB.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.01-11.46.07:536][613]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMap_BuiltDataA077C85645C29D1A76032F96F07B0E93.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.03.01-11.46.07:547][613]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.01-11.46.07:547][613]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.03.01-11.46.07:547][613]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.01-11.46.08:082][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.03.01-11.46.08:096][661]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMapE69082654513D8E78E88F4A2E6ADF62F.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.01-11.46.08:280][661]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMap_BuiltData6961560145AA4DD1F8BB609B31026BC8.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.03.01-11.46.08:292][661]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.01-11.46.08:292][661]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.03.01-11.46.08:292][661]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.01-11.49.47:936][592]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-11.49.47:942][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-11.49.47:944][592]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2022, 11:49:47)
+[2022.03.01-11.49.47:946][592]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.01-11.49.47:948][592]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.01-11.49.47:948][592]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-11.49.47:958][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009840s)
+[2022.03.01-11.49.47:959][592]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.01-11.49.47:960][592]LogPlayLevel: PIE: World Init took: (0.001651s)
+[2022.03.01-11.49.47:960][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011639s)
+[2022.03.01-11.49.47:987][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.03.01-11.49.48:000][592]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.01-11.49.48:000][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-11.49.48:000][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-11.49.48:000][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-11.49.48:000][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-11.49.48:000][592]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-11.49.48:000][592]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-11.49.48:000][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-11.49.48:000][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-11.49.48:000][592]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-11.49.48:000][592]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-11.49.48:001][592]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-11.49.48:001][592]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-11.49.48:008][592]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-11.49.48:008][592]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-11.49.48:016][592]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.01-11.49.48:016][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-11.49.48:016][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-11.49.48:016][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-11.49.48:017][592]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-11.49.48:017][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-11.49.48:017][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-11.49.48:018][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-11.49.48:018][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-11.49.48:018][592]LogInit: FAudioDevice initialized.
+[2022.03.01-11.49.48:018][592]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.03.01-11.49.48:394][592]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.01-11.49.48:397][592]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.01-11.49.48
+[2022.03.01-11.49.48:397][592]LogWorld: Bringing up level for play took: 0.001199
+[2022.03.01-11.49.48:397][592]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.03.01-11.49.48:405][592]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.01-11.49.48:406][592]PIE: Server logged in
+[2022.03.01-11.49.48:408][592]PIE: Play in editor total start time 0.467 seconds.
+[2022.03.01-11.49.51:647][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-11.49.51:647][927]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-11.49.51:647][927]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-11.49.51:647][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.49.51:658][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-11.49.51:668][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.49.51:691][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-11.49.51:691][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-11.49.51:692][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-11.49.51:742][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.03.01-11.49.51:772][928]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.03.01-11.50.01:401][199]LogEditorViewport: Clicking on Actor (LMB): BP_HoverVehicleMk2_C (BP_HoverVehicleMk2)
+[2022.03.01-11.50.02:222][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2022.03.01-11.50.02:969][379]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.03.01-11.50.21:086][641]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-11.50.48:872][767]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-11.50.48:876][767]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-11.50.48:914][767]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-11.50.48:914][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.50.49:859][866]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-11.50.49:863][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-11.50.49:863][866]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2022, 11:50:49)
+[2022.03.01-11.50.49:894][866]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-11.50.49:904][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009717s)
+[2022.03.01-11.50.49:904][866]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.01-11.50.49:905][866]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2022.03.01-11.50.49:905][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011088s)
+[2022.03.01-11.50.49:968][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.03.01-11.50.49:969][866]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.01-11.50.49:969][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-11.50.49:969][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-11.50.49:969][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-11.50.49:969][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-11.50.49:969][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-11.50.49:969][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-11.50.49:969][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-11.50.49:969][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-11.50.49:970][866]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-11.50.49:970][866]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-11.50.49:970][866]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-11.50.49:970][866]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-11.50.49:976][866]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-11.50.49:976][866]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-11.50.49:985][866]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.01-11.50.49:985][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-11.50.49:985][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-11.50.49:985][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-11.50.49:985][866]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-11.50.49:985][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-11.50.49:985][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-11.50.49:986][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-11.50.49:986][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-11.50.49:986][866]LogInit: FAudioDevice initialized.
+[2022.03.01-11.50.49:986][866]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.03.01-11.50.49:998][866]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.01-11.50.49:999][866]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.01-11.50.49
+[2022.03.01-11.50.49:999][866]LogWorld: Bringing up level for play took: 0.000855
+[2022.03.01-11.50.49:999][866]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.03.01-11.50.50:001][866]PIE: Server logged in
+[2022.03.01-11.50.50:002][866]PIE: Play in editor total start time 0.139 seconds.
+[2022.03.01-11.50.55:064][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-11.50.55:064][465]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-11.50.55:064][465]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-11.50.55:065][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.50.55:074][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-11.50.55:082][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.50.55:099][465]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-11.50.55:099][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-11.50.55:100][465]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-11.50.55:102][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-11.50.55:105][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.03.01-11.50.55:132][466]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.03.01-11.50.58:427][855]LogEditorViewport: Clicking on Actor (LMB): BP_HoverVehicleMk2_C (BP_HoverVehicleMk2)
+[2022.03.01-11.50.59:147][933]LogEditorViewport: Clicking on Actor (LMB): BP_HoverVehicleMk2_C (BP_HoverVehicleMk2)
+[2022.03.01-11.51.00:036][ 38]LogEditorViewport: Clicking on Actor (LMB): BP_HoverVehicleMk2_C (BP_HoverVehicleMk2)
+[2022.03.01-11.51.00:572][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.01-11.51.01:640][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.01-11.51.03:278][415]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.03.01-11.51.04:033][502]Cmd: SELECT NONE
+[2022.03.01-11.51.18:933][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-11.51.34:368][822]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-11.51.57:650][ 87]BlueprintLog: New page: Compile BP_HoverComponentMk2
+[2022.03.01-11.51.57:656][ 87]LogBlueprint: Error: [AssetLog] C:\Users\Tank\Documents\HoVR\GitHub\HovR2\HoVR\Content\ThirdPersonBP\VehicleMovement\BP_HoverComponentMk2.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2022.03.01-11.51.57:700][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.03.01-11.52.11:133][398]BlueprintLog: New page: Compile BP_HoverComponentMk2
+[2022.03.01-11.52.11:179][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.03.01-11.52.12:180][494]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverComponentMk29457D0544310DEEAA40BCAA308D7CF50.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.uasset'
+[2022.03.01-11.52.12:192][494]AssetCheck: New page: Asset Save: BP_HoverComponentMk2
+[2022.03.01-11.52.12:192][494]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-11.52.43:136][379]BlueprintLog: New page: Compile BP_HoverComponentMk2
+[2022.03.01-11.52.43:183][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.03.01-11.52.44:045][459]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverComponentMk292E567294B80A7749280D48102F8085D.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.uasset'
+[2022.03.01-11.52.44:057][459]AssetCheck: New page: Asset Save: BP_HoverComponentMk2
+[2022.03.01-11.52.44:057][459]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-11.52.53:241][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.03.01-11.52.53:257][860]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMap3BF3F214478A9544209FDFA4ED3118BC.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.01-11.52.53:437][860]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMap_BuiltData7456AB204EC264464388DFB2522C1E65.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.03.01-11.52.53:448][860]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.01-11.52.53:448][860]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.03.01-11.52.53:448][860]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.01-11.52.54:721][  2]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-11.52.54:725][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-11.52.54:725][  2]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2022, 11:52:54)
+[2022.03.01-11.52.54:725][  2]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-11.52.54:735][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010317s)
+[2022.03.01-11.52.54:737][  2]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.01-11.52.54:737][  2]LogPlayLevel: PIE: World Init took: (0.001594s)
+[2022.03.01-11.52.54:737][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012038s)
+[2022.03.01-11.52.54:764][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.03.01-11.52.54:764][  2]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.01-11.52.54:764][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-11.52.54:764][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-11.52.54:764][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-11.52.54:764][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-11.52.54:764][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-11.52.54:764][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-11.52.54:764][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-11.52.54:764][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-11.52.54:765][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-11.52.54:765][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-11.52.54:765][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-11.52.54:765][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-11.52.54:771][  2]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-11.52.54:771][  2]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-11.52.54:780][  2]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.01-11.52.54:780][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-11.52.54:780][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-11.52.54:780][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-11.52.54:781][  2]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-11.52.54:781][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-11.52.54:781][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-11.52.54:782][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-11.52.54:782][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-11.52.54:782][  2]LogInit: FAudioDevice initialized.
+[2022.03.01-11.52.54:782][  2]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.03.01-11.52.54:789][  2]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.01-11.52.54:790][  2]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.01-11.52.54
+[2022.03.01-11.52.54:790][  2]LogWorld: Bringing up level for play took: 0.000852
+[2022.03.01-11.52.54:791][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.03.01-11.52.54:792][  2]PIE: Server logged in
+[2022.03.01-11.52.54:793][  2]PIE: Play in editor total start time 0.069 seconds.
+[2022.03.01-11.52.57:152][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-11.52.57:152][277]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-11.52.57:152][277]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-11.52.57:152][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.52.57:161][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-11.52.57:164][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.52.57:186][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-11.52.57:186][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-11.52.57:187][277]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-11.52.57:192][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.03.01-11.52.57:242][279]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.01-11.53.50:145][ 66]BlueprintLog: New page: Compile BP_HoverVehicleMk2
+[2022.03.01-11.53.50:190][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.03.01-11.53.51:243][153]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk2A6C668834892A0D998389E8982213EB9.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-11.53.51:254][153]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-11.53.51:254][153]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-11.53.52:698][282]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-11.53.52:702][282]LogSlate: Window 'BP_HoverComponentMk2' being destroyed
+[2022.03.01-11.53.52:740][282]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-11.53.52:740][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.53.52:794][282]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-11.53.52:794][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.53.53:978][404]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-11.53.53:983][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-11.53.53:983][404]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2022, 11:53:53)
+[2022.03.01-11.53.54:020][404]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-11.53.54:029][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009312s)
+[2022.03.01-11.53.54:030][404]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.01-11.53.54:031][404]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2022.03.01-11.53.54:031][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010812s)
+[2022.03.01-11.53.54:058][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.03.01-11.53.54:059][404]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.01-11.53.54:059][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-11.53.54:059][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-11.53.54:059][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-11.53.54:059][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-11.53.54:059][404]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-11.53.54:059][404]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-11.53.54:059][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-11.53.54:059][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-11.53.54:059][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-11.53.54:060][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-11.53.54:060][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-11.53.54:060][404]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-11.53.54:066][404]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-11.53.54:066][404]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-11.53.54:075][404]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.01-11.53.54:075][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-11.53.54:075][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-11.53.54:075][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-11.53.54:075][404]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-11.53.54:075][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-11.53.54:075][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-11.53.54:076][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-11.53.54:076][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-11.53.54:076][404]LogInit: FAudioDevice initialized.
+[2022.03.01-11.53.54:076][404]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2022.03.01-11.53.54:086][404]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.01-11.53.54:087][404]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.01-11.53.54
+[2022.03.01-11.53.54:087][404]LogWorld: Bringing up level for play took: 0.000837
+[2022.03.01-11.53.54:087][404]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.03.01-11.53.54:089][404]PIE: Server logged in
+[2022.03.01-11.53.54:090][404]PIE: Play in editor total start time 0.108 seconds.
+[2022.03.01-11.53.56:780][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-11.53.56:780][720]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-11.53.56:780][720]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-11.53.56:780][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.53.56:788][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-11.53.56:793][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.53.56:809][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-11.53.56:809][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-11.53.56:811][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-11.53.56:815][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.03.01-11.53.56:881][722]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.03.01-11.53.59:457][ 31]LogEditorViewport: Clicking on Actor (LMB): BP_HoverVehicleMk2_C (BP_HoverVehicleMk2)
+[2022.03.01-11.54.03:019][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2022.03.01-11.54.03:440][491]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.03.01-11.54.04:262][576]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-11.54.04:266][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-11.54.04:266][576]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2022, 11:54:04)
+[2022.03.01-11.54.04:300][576]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-11.54.04:309][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009194s)
+[2022.03.01-11.54.04:310][576]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.01-11.54.04:310][576]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2022.03.01-11.54.04:310][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010565s)
+[2022.03.01-11.54.04:333][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.03.01-11.54.04:336][576]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.01-11.54.04:336][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-11.54.04:336][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-11.54.04:336][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-11.54.04:336][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-11.54.04:336][576]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-11.54.04:336][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-11.54.04:336][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-11.54.04:336][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-11.54.04:337][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-11.54.04:337][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-11.54.04:337][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-11.54.04:337][576]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-11.54.04:343][576]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-11.54.04:343][576]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-11.54.04:352][576]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.01-11.54.04:352][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-11.54.04:352][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-11.54.04:352][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-11.54.04:353][576]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-11.54.04:353][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-11.54.04:353][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-11.54.04:354][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-11.54.04:354][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-11.54.04:354][576]LogInit: FAudioDevice initialized.
+[2022.03.01-11.54.04:354][576]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2022.03.01-11.54.04:360][576]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.01-11.54.04:362][576]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.01-11.54.04
+[2022.03.01-11.54.04:362][576]LogWorld: Bringing up level for play took: 0.000798
+[2022.03.01-11.54.04:362][576]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.03.01-11.54.04:364][576]PIE: Server logged in
+[2022.03.01-11.54.04:365][576]PIE: Play in editor total start time 0.1 seconds.
+[2022.03.01-11.54.05:870][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-11.54.05:870][751]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-11.54.05:870][751]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-11.54.05:871][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.54.05:879][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-11.54.05:887][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-11.54.05:903][751]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-11.54.05:903][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-11.54.05:904][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-11.54.05:906][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-11.54.05:909][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.03.01-11.54.05:947][753]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.03.01-11.54.59:697][573]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-11.55.18:662][250]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
+[2022.03.01-12.03.00:131][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.03.01-12.03.00:151][380]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMap_Auto50765B9724D5EE4051795F6B589D70D85.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2022.03.01-12.03.00:153][380]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.049
+[2022.03.01-12.03.00:153][380]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.03.01-12.35.31:550][695]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.01-12.37.02:026][613]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.03.01-12.37.31:279][ 87]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.01-12.37.31:283][ 87]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.01-12.39.40:244][238]BlueprintLog: New page: Compile BP_HoverVehicleMk2
+[2022.03.01-12.39.40:341][238]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2022.03.01-12.39.40:979][278]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk246F616264ACED7912515009D7A46F819.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-12.39.40:992][278]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-12.39.40:993][278]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-12.39.44:028][543]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-12.39.44:032][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-12.39.44:032][543]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2022, 12:39:44)
+[2022.03.01-12.39.44:033][543]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-12.39.44:044][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011435s)
+[2022.03.01-12.39.44:045][543]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.01-12.39.44:046][543]LogPlayLevel: PIE: World Init took: (0.001659s)
+[2022.03.01-12.39.44:046][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013248s)
+[2022.03.01-12.39.44:094][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.03.01-12.39.44:097][543]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.01-12.39.44:097][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-12.39.44:097][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-12.39.44:097][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-12.39.44:097][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-12.39.44:097][543]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-12.39.44:097][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-12.39.44:097][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-12.39.44:097][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-12.39.44:097][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-12.39.44:097][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-12.39.44:097][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-12.39.44:097][543]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-12.39.44:131][543]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-12.39.44:131][543]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-12.39.44:141][543]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.01-12.39.44:141][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-12.39.44:141][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-12.39.44:141][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-12.39.44:142][543]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-12.39.44:142][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-12.39.44:142][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-12.39.44:143][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-12.39.44:143][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-12.39.44:143][543]LogInit: FAudioDevice initialized.
+[2022.03.01-12.39.44:143][543]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2022.03.01-12.39.44:151][543]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.01-12.39.44:153][543]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.01-12.39.44
+[2022.03.01-12.39.44:153][543]LogWorld: Bringing up level for play took: 0.000871
+[2022.03.01-12.39.44:153][543]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.03.01-12.39.44:155][543]PIE: Server logged in
+[2022.03.01-12.39.44:156][543]PIE: Play in editor total start time 0.125 seconds.
+[2022.03.01-12.39.46:508][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-12.39.46:508][816]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-12.39.46:508][816]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-12.39.46:508][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-12.39.46:514][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-12.39.46:526][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-12.39.46:555][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-12.39.46:555][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-12.39.46:557][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-12.39.46:562][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.03.01-12.39.46:595][817]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.03.01-12.39.47:181][883]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-12.39.47:185][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-12.39.47:185][883]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2022, 12:39:47)
+[2022.03.01-12.39.47:185][883]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-12.39.47:196][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010987s)
+[2022.03.01-12.39.47:197][883]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.01-12.39.47:198][883]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2022.03.01-12.39.47:198][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012214s)
+[2022.03.01-12.39.47:230][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.03.01-12.39.47:231][883]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.01-12.39.47:231][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-12.39.47:231][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-12.39.47:231][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-12.39.47:231][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-12.39.47:231][883]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-12.39.47:231][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-12.39.47:231][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-12.39.47:231][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-12.39.47:231][883]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-12.39.47:232][883]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-12.39.47:232][883]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-12.39.47:232][883]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-12.39.47:238][883]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-12.39.47:238][883]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-12.39.47:247][883]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.01-12.39.47:247][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-12.39.47:247][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-12.39.47:248][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-12.39.47:248][883]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-12.39.47:248][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-12.39.47:248][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-12.39.47:249][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-12.39.47:249][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-12.39.47:249][883]LogInit: FAudioDevice initialized.
+[2022.03.01-12.39.47:249][883]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2022.03.01-12.39.47:261][883]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.01-12.39.47:262][883]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.01-12.39.47
+[2022.03.01-12.39.47:262][883]LogWorld: Bringing up level for play took: 0.000838
+[2022.03.01-12.39.47:262][883]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.01-12.39.47:264][883]PIE: Server logged in
+[2022.03.01-12.39.47:265][883]PIE: Play in editor total start time 0.08 seconds.
+[2022.03.01-12.39.48:727][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-12.39.48:727][ 52]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-12.39.48:727][ 52]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-12.39.48:728][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-12.39.48:738][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-12.39.48:750][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-12.39.48:779][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-12.39.48:779][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-12.39.48:780][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-12.39.48:785][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.03.01-12.39.48:819][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.01-12.39.52:679][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.01-12.39.53:425][310]LogEditorViewport: Clicking on Actor (LMB): BP_HoverVehicleMk2_C (BP_HoverVehicleMk2)
+[2022.03.01-12.40.10:009][779]BlueprintLog: New page: Compile BP_HoverVehicleMk2
+[2022.03.01-12.40.10:079][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.03.01-12.40.10:797][825]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk2AF025DDE4127EA1A50C56682FBC59441.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-12.40.10:810][825]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-12.40.10:810][825]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-12.40.12:446][957]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-12.40.12:456][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-12.40.12:456][957]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2022, 12:40:12)
+[2022.03.01-12.40.12:456][957]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-12.40.12:467][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010802s)
+[2022.03.01-12.40.12:468][957]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.01-12.40.12:468][957]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2022.03.01-12.40.12:468][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012282s)
+[2022.03.01-12.40.12:502][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.03.01-12.40.12:504][957]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.01-12.40.12:504][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-12.40.12:504][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-12.40.12:504][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-12.40.12:504][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-12.40.12:504][957]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-12.40.12:504][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-12.40.12:504][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-12.40.12:504][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-12.40.12:505][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-12.40.12:505][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-12.40.12:505][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-12.40.12:505][957]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-12.40.12:512][957]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-12.40.12:512][957]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-12.40.12:521][957]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.01-12.40.12:522][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-12.40.12:522][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-12.40.12:522][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-12.40.12:522][957]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-12.40.12:522][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-12.40.12:522][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-12.40.12:523][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-12.40.12:523][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-12.40.12:523][957]LogInit: FAudioDevice initialized.
+[2022.03.01-12.40.12:523][957]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2022.03.01-12.40.12:536][957]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.01-12.40.12:538][957]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.01-12.40.12
+[2022.03.01-12.40.12:538][957]LogWorld: Bringing up level for play took: 0.001251
+[2022.03.01-12.40.12:538][957]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.03.01-12.40.12:540][957]PIE: Server logged in
+[2022.03.01-12.40.12:541][957]PIE: Play in editor total start time 0.091 seconds.
+[2022.03.01-12.40.15:957][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-12.40.15:957][317]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-12.40.15:957][317]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-12.40.15:957][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-12.40.15:967][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-12.40.15:977][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-12.40.16:002][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-12.40.16:003][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-12.40.16:004][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-12.40.16:006][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-12.40.16:011][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.03.01-12.40.16:053][318]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.03.01-12.40.18:305][538]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-12.40.18:310][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-12.40.18:310][538]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2022, 12:40:18)
+[2022.03.01-12.40.18:310][538]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-12.40.18:319][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009053s)
+[2022.03.01-12.40.18:321][538]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.01-12.40.18:321][538]LogPlayLevel: PIE: World Init took: (0.001538s)
+[2022.03.01-12.40.18:321][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010710s)
+[2022.03.01-12.40.18:358][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.03.01-12.40.18:360][538]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.03.01-12.40.18:361][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-12.40.18:361][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-12.40.18:361][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-12.40.18:361][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-12.40.18:361][538]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-12.40.18:361][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-12.40.18:361][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-12.40.18:361][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-12.40.18:361][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-12.40.18:361][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-12.40.18:361][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-12.40.18:361][538]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-12.40.18:367][538]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-12.40.18:367][538]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-12.40.18:376][538]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.01-12.40.18:376][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-12.40.18:376][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-12.40.18:376][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-12.40.18:377][538]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-12.40.18:377][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-12.40.18:377][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-12.40.18:378][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-12.40.18:378][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-12.40.18:378][538]LogInit: FAudioDevice initialized.
+[2022.03.01-12.40.18:378][538]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2022.03.01-12.40.18:388][538]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.01-12.40.18:389][538]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.01-12.40.18
+[2022.03.01-12.40.18:389][538]LogWorld: Bringing up level for play took: 0.000788
+[2022.03.01-12.40.18:389][538]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.03.01-12.40.18:391][538]PIE: Server logged in
+[2022.03.01-12.40.18:392][538]PIE: Play in editor total start time 0.083 seconds.
+[2022.03.01-12.40.25:716][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-12.40.25:716][410]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-12.40.25:717][410]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-12.40.25:717][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-12.40.25:728][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-12.40.25:739][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-12.40.25:764][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-12.40.25:765][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-12.40.25:766][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-12.40.25:767][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-12.40.25:771][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.03.01-12.40.25:803][411]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.03.01-12.40.40:861][730]LogEditorTransaction: Undo Attach Components
+[2022.03.01-12.40.50:804][449]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk2D1CEAD144C947C7DAB1FE6B8C42AC7CA.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-12.40.50:817][449]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-12.40.50:817][449]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-12.40.51:703][520]BlueprintLog: New page: Compile BP_HoverVehicleMk2
+[2022.03.01-12.40.51:776][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.03.01-12.40.52:396][555]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk25D3477044C8AEAEE86E5D1852F648C3B.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-12.40.52:410][555]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-12.40.52:410][555]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-12.41.16:092][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2022.03.01-12.41.16:837][694]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2022.03.01-12.41.17:027][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.03.01-12.41.17:048][704]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMap_Auto6F4B56FE8460103F0048A418E0C08ED1D.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2022.03.01-12.41.17:049][704]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.054
+[2022.03.01-12.41.17:049][704]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2022.03.01-12.41.28:127][879]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.01-12.41.28:893][915]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.01-12.41.29:443][957]LogEditorTransaction: Undo Attach Components
+[2022.03.01-12.41.43:436][ 54]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk21EA6BAC04FEAB1B3796EB8BBEB2AAA79.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-12.41.43:449][ 54]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-12.41.43:449][ 54]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-12.41.44:048][101]BlueprintLog: New page: Compile BP_HoverVehicleMk2
+[2022.03.01-12.41.44:115][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.03.01-12.41.44:691][131]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk27FB5BEFA42938BD828B8A98EAA7A2063.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-12.41.44:702][131]AssetCheck: New page: Asset Save: BP_HoverVehicleMk2
+[2022.03.01-12.41.44:702][131]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-12.41.49:528][555]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-12.41.49:532][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-12.41.49:532][555]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2022, 12:41:49)
+[2022.03.01-12.41.49:564][555]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-12.41.49:573][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009084s)
+[2022.03.01-12.41.49:574][555]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.01-12.41.49:574][555]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2022.03.01-12.41.49:574][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010506s)
+[2022.03.01-12.41.49:609][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.03.01-12.41.49:612][555]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.03.01-12.41.49:612][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-12.41.49:612][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-12.41.49:612][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-12.41.49:612][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-12.41.49:612][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-12.41.49:612][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-12.41.49:612][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-12.41.49:612][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-12.41.49:613][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-12.41.49:613][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-12.41.49:613][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-12.41.49:613][555]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-12.41.49:619][555]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-12.41.49:619][555]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-12.41.49:628][555]LogAudioMixer: Display: Using Audio Device PL2530H (NVIDIA High Definition Audio)
+[2022.03.01-12.41.49:629][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-12.41.49:629][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-12.41.49:629][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-12.41.49:629][555]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-12.41.49:629][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-12.41.49:629][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-12.41.49:630][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-12.41.49:630][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-12.41.49:630][555]LogInit: FAudioDevice initialized.
+[2022.03.01-12.41.49:630][555]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2022.03.01-12.41.49:638][555]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.01-12.41.49:640][555]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.03.01-12.41.49
+[2022.03.01-12.41.49:640][555]LogWorld: Bringing up level for play took: 0.000866
+[2022.03.01-12.41.49:640][555]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.03.01-12.41.49:642][555]PIE: Server logged in
+[2022.03.01-12.41.49:643][555]PIE: Play in editor total start time 0.111 seconds.
+[2022.03.01-12.41.54:085][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-12.41.54:085][ 81]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.01-12.41.54:085][ 81]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-12.41.54:085][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-12.41.54:095][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-12.41.54:106][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-12.41.54:132][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-12.41.54:132][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-12.41.54:133][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-12.41.54:135][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-12.41.54:139][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.03.01-12.41.54:171][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.03.01-12.42.19:070][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.03.01-12.42.19:087][609]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMap9464253840E40366A3F574B121A301D1.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.01-12.42.19:270][609]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMap_BuiltDataC4F1F9EA44F1226E499C48BA81587793.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.03.01-12.42.19:282][609]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.01-12.42.19:282][609]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.03.01-12.42.19:282][609]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.01-12.42.22:835][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:835][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:835][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:835][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:835][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:835][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:835][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:835][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:835][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.22:836][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Tank/Documents/HoVR/GitHub'
+[2022.03.01-12.42.23:141][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.03.01-12.42.23:157][941]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMap1A676A5A4D5B3FDE3AD67AB217DE6FD0.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.01-12.42.23:166][941]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.057
+[2022.03.01-12.42.23:252][941]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/ThirdPersonExampleMap_BuiltData84053B954CBD9D0BC7F189AB9FEA74BF.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.03.01-12.42.23:267][941]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverComponentMk23927FF444B745488D3D0DBB251B3E6D7.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.uasset'
+[2022.03.01-12.42.23:278][941]LogSavePackage: Moving '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Saved/BP_HoverVehicleMk27F4FFD434EE71F098365CD886FC667AF.tmp' to '../../../../../../Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset'
+[2022.03.01-12.42.45:333][941]LogSlate: Window 'Submit Files' being destroyed
+[2022.03.01-12.42.46:962][941]LogSourceControl: commit successful: [FixHandling 025d6a4] Floating and Fwd/Bkwd motion done
+[2022.03.01-12.42.47:039][941]SourceControl: [FixHandling 025d6a4] Floating and Fwd/Bkwd motion done
+[2022.03.01-12.42.47:039][941]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2022.03.01-12.42.47:039][941]SourceControl:  create mode 100644 HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.uasset
+[2022.03.01-12.42.47:039][941]SourceControl:  rewrite HovR2/HoVR/Content/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.uasset (94%)
+[2022.03.01-12.42.47:043][941]SourceControl: Commited [FixHandling 025d6a4] Floating and Fwd/Bkwd motion done.
+[2022.03.01-12.42.47:083][942]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.01-12.42.47:083][942]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.03.01-12.42.47:083][942]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.01-12.42.47:083][942]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverVehicleMk2.BP_HoverVehicleMk2
+[2022.03.01-12.42.47:083][942]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/VehicleMovement/BP_HoverComponentMk2.BP_HoverComponentMk2
