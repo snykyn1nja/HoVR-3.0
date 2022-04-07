@@ -1,0 +1,35 @@
+﻿  Creating makefile for HoVREditor (no existing makefile)
+  Parsing headers for HoVREditor
+    Running UnrealHeaderTool "D:\HoVR-3.0\HovR2\HoVR\HoVR.uproject" "D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\HoVREditor\Development\HoVREditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\UP928861\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for HoVREditor in 10.4725908 seconds
+  Building HoVREditor...
+  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 8 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  ActuateMotionComponent.cpp (0:00.68 at +0:00)
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(5): warning C5038: data member 'UActuateMotionComponent::enabled_' will be initialized after data member 'UActuateMotionComponent::ticks_'
+  ActuateMotionComponent.gen.cpp (0:00.73 at +0:00)
+  HoVR.init.gen.cpp (0:00.67 at +0:01)
+  HoVR.cpp (0:00.51 at +0:02)
+  CreatingSourceFolder.cpp (0:00.56 at +0:02)
+  UE4Editor-HoVR.dll (0:00.78 at +0:03)
+     Creating library D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\UE4Editor-HoVR.suppressed.lib and object D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\UE4Editor-HoVR.suppressed.exp
+  UE4Editor-HoVR.lib (0:00.15 at +0:03)
+     Creating library D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\UE4Editor-HoVR.lib and object D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\UE4Editor-HoVR.exp
+  HoVREditor.target (0:00.50 at +0:04)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 5.35 seconds
+  Total execution time: 19.15 seconds

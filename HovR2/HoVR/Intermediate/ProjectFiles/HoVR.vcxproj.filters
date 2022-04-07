@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\HoVR.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F206E8CE-1E92-4A4C-9322-473048EBB7AF}</UniqueIdentifier>
+      <UniqueIdentifier>{F5AA9FA1-2FDB-4808-B649-83443B876FF0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\HoVR.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{6C7302C8-9F24-4FF9-9954-9D232B25F9D0}</UniqueIdentifier>
+      <UniqueIdentifier>{DCAECF71-115B-477C-AD8F-206ABFA846B9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -33,7 +33,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\SteamVRBindings">
-      <UniqueIdentifier>{5602A6BE-0AE0-4CDD-A1A7-FB4FD0CC27EB}</UniqueIdentifier>
+      <UniqueIdentifier>{F68106DD-0E56-47B6-962B-47597CAE172D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\SteamVRBindings\gamepad.json">
       <Filter>Config\SteamVRBindings</Filter>
@@ -114,7 +114,7 @@
       <Filter>Config\SteamVRBindings</Filter>
     </None>
     <Filter Include="Source\HoVR">
-      <UniqueIdentifier>{D0DD708D-4573-4F5F-AB4D-C0744A843F8F}</UniqueIdentifier>
+      <UniqueIdentifier>{29FA6E7E-7911-4F21-B368-DEEE05530539}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\HoVR\ActuateMotionComponent.cpp">
       <Filter>Source\HoVR</Filter>

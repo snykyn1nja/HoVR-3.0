@@ -36,7 +36,7 @@ struct ActuateMsgTelemPayload {
 typedef void(*SendFunc)(ActuateMsg&);
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class HoVR_API UActuateMotionComponent : public UActorComponent
+class HOVR_API UActuateMotionComponent : public UActorComponent
 {
 	GENERATED_BODY()
 

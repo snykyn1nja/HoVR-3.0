@@ -1,0 +1,3 @@
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\Definitions.HoVR.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

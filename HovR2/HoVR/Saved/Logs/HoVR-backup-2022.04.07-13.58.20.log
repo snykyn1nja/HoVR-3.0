@@ -1,0 +1,335 @@
+﻿Log file open, 04/07/22 14:58:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HoVR
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.469325
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogInit: Warning: Incompatible or missing module: HoVR
+Running D:/Unreal/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="D:/HoVR-3.0/HovR2/HoVR/HoVR.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+@progress push 5%
+@progress pop
+Building HoVREditor...
+Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Distributing 5 actions to XGE
+--------------------Build System Warning---------------------------------------
+License is invalid:
+    License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+    This build will run in standalone mode.
+
+-------------------------------------------------------------------------------
+--------------------Project: Default-------------------------------------------
+ActuateMotionComponent.gen.cpp
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR/ActuateMotionComponent.h(39): error C2079: 'UActuateMotionComponent' uses undefined class 'HoVR_API'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR/ActuateMotionComponent.h(39): error C2143: syntax error: missing ';' before ':'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR/ActuateMotionComponent.h(39): error C2059: syntax error: ':'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR/ActuateMotionComponent.h(39): error C2059: syntax error: 'public'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR/ActuateMotionComponent.h(40): error C2143: syntax error: missing ';' before '{'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR/ActuateMotionComponent.h(40): error C2447: '{': missing function header (old-style formal list?)
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(21): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(26): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(26): error C2672: 'StaticClass': no matching overloaded function found
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(26): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(50): error C2923: 'TCppClassTypeTraits': 'UActuateMotionComponent' is not a valid template type argument for parameter 'CPPCLASS'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR/ActuateMotionComponent.h(39): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(50): error C2955: 'TCppClassTypeTraits': use of class template requires template argument list
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2522): note: see declaration of 'TCppClassTypeTraits'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(50): error C4800: Implicit conversion from 'TCppClassTypeTraits<CPPCLASS>::<unnamed-enum-IsAbstract>' to bool. Possible information loss
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(51): note: consider using explicit cast or comparison to 0 to avoid this warning
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h(2525): note: see declaration of 'TCppClassTypeTraits<CPPCLASS>::<unnamed-enum-IsAbstract>'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(51): warning C4305: 'initializing': truncation from 'TCppClassTypeTraits<CPPCLASS>::<unnamed-enum-IsAbstract>' to 'bool'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(53): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(53): error C2440: 'initializing': cannot convert from 'overloaded-function' to 'UClass *(__cdecl *)(void)'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(53): note: None of the functions with this name in scope match the target type
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(76): error C2923: 'TClassCompiledInDefer': 'UActuateMotionComponent' is not a valid template type argument for parameter 'TClass'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR/ActuateMotionComponent.h(39): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(76): error C2514: 'TClassCompiledInDefer': class template cannot be constructed
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(291): note: see declaration of 'TClassCompiledInDefer'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(76): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(76): error C3861: 'StaticPackage': identifier not found
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(76): error C2065: 'StaticClassFlags': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(76): error C2061: syntax error: identifier 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(78): error C2912: explicit specialization 'UClass *StaticClass<UActuateMotionComponent>(void)' is not a specialization of a function template
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(79): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(79): error C2672: 'StaticClass': no matching overloaded function found
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(79): error C2783: 'UClass *StaticClass(void)': could not deduce template argument for 'ClassType'
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h(13): note: see declaration of 'StaticClass'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(81): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(81): error C2664: 'FCompiledInDefer::FCompiledInDefer(UClass *(__cdecl *)(void),UClass *(__cdecl *)(void),const TCHAR *,const TCHAR *,bool,const TCHAR *,const TCHAR *,void (__cdecl *)(TMap<FName,FName,FDefaultSetAllocator,TDefaultMapHashableKeyFuncs<KeyType,ValueType,false>> &))': cannot convert argument 2 from 'UClass *(__cdecl *)(void)' to 'UClass *(__cdecl *)(void)'
+        with
+        [
+            KeyType=FName,
+            ValueType=FName
+        ]
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(81): note: None of the functions with this name in scope match the target type
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h(316): note: see declaration of 'FCompiledInDefer::FCompiledInDefer'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(82): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(82): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(82): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.gen.cpp(82): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+
+Error executing D:\Unreal\UE_4.27\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+ActuateMotionComponent.cpp
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.h(39): error C2079: 'UActuateMotionComponent' uses undefined class 'HoVR_API'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.h(39): error C2143: syntax error: missing ';' before ':'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.h(39): error C2059: syntax error: ':'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.h(39): error C2059: syntax error: 'public'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.h(40): error C2143: syntax error: missing ';' before '{'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.h(40): error C2447: '{': missing function header (old-style formal list?)
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(4): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(8): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(11): error C2065: 'PrimaryComponentTick': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(14): error C2065: 'actor_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(14): error C3861: 'GetOwner': identifier not found
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(15): error C2065: 'actor_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(17): error C4508: '{ctor}': function should return a value; 'void' return type assumed
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(22): error C2065: 'hlib_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(23): error C2065: 'hlib_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(25): error C2617: '{ctor}': inconsistent return statement
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(4): note: see declaration of '{ctor}'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(29): error C2065: 'Send_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(29): error C2065: 'hlib_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(30): error C2065: 'Send_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(32): error C2617: '{ctor}': inconsistent return statement
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(4): note: see declaration of '{ctor}'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(36): error C2065: 'enabled_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(37): error C2617: '{ctor}': inconsistent return statement
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(4): note: see declaration of '{ctor}'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(39): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(41): error C2065: 'enabled_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(42): error C3861: 'SendStopMessage': identifier not found
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(45): error C2065: 'hlib_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(46): error C2065: 'hlib_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(47): error C4508: '{dtor}': function should return a value; 'void' return type assumed
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(50): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(51): error C2653: 'Super': is not a class or namespace name
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(54): error C2065: 'enabled_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(58): error C2065: 'ticks_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(59): error C3861: 'SendStopMessage': identifier not found
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(60): error C3861: 'SendConfigureTelemTypeMessage': identifier not found
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(61): error C3861: 'SendStartMessage': identifier not found
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(65): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(66): error C2653: 'Super': is not a class or namespace name
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(69): error C2065: 'enabled_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(73): error C2065: 'actor_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(74): error C2065: 'actor_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(77): error C2065: 'ticks_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(81): error C2065: 'actuateVector_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(82): error C2065: 'actuateVector_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(83): error C2065: 'actuateVector_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(84): error C2065: 'actuateQuaternion_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(85): error C2065: 'actuateQuaternion_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(86): error C2065: 'actuateQuaternion_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(87): error C2065: 'actuateQuaternion_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(90): error C3861: 'SendTelemMessage': identifier not found
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(94): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(97): error C3861: 'Send_': identifier not found
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(101): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(104): error C3861: 'Send_': identifier not found
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(109): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(115): error C3861: 'Send_': identifier not found
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(119): error C2027: use of undefined type 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR\ActuateMotionComponent.generated.h(87): note: see declaration of 'UActuateMotionComponent'
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(124): error C2065: 'ticks_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(125): error C2065: 'actuateVector_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(126): error C2065: 'actuateVector_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(127): error C2065: 'actuateVector_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(128): error C2065: 'actuateQuaternion_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(129): error C2065: 'actuateQuaternion_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(130): error C2065: 'actuateQuaternion_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(131): error C2065: 'actuateQuaternion_': undeclared identifier
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\ActuateMotionComponent.cpp(132): error C3861: 'Send_': identifier not found
+
+Error executing D:\Unreal\UE_4.27\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+---------------------- Done ----------------------
+
+    Rebuild All: 0 succeeded, 1 failed, 0 skipped
+
+1 build system warning(s):
+   - License is invalid
+
+LogInit: Warning: Still incompatible or missing module: HoVR
+LogCore: Engine exit requested (reason: EngineExit() was called)
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+LogModuleManager: Shutting down and abandoning module XGEController (36)
+LogXGEController: Cleaning working directory: C:/Users/UP928861/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+LogModuleManager: Shutting down and abandoning module RenderCore (26)
+LogModuleManager: Shutting down and abandoning module Landscape (24)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+LogModuleManager: Shutting down and abandoning module Renderer (18)
+LogModuleManager: Shutting down and abandoning module Engine (16)
+LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+LogModuleManager: Shutting down and abandoning module PakFile (4)
+LogModuleManager: Shutting down and abandoning module RSA (3)
+LogExit: Exiting.
+Log file closed, 04/07/22 14:58:20

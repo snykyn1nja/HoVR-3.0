@@ -32,6 +32,7 @@
 /wd4244
 /wd4838
 /I .
+/I D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Inc\HoVR
 /I D:\HoVR-3.0\HovR2\HoVR\Source
 /I Runtime
 /I Runtime\TraceLog\Public

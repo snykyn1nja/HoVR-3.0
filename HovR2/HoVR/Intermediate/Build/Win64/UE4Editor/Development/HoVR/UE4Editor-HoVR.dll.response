@@ -34,8 +34,11 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\HoVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\ActuateMotionComponent.cpp.obj"
 "D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\CreatingSourceFolder.cpp.obj"
 "D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\HoVR.cpp.obj"
+"D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\ActuateMotionComponent.gen.cpp.obj"
+"D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\HoVR.init.gen.cpp.obj"
 "D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\Default.rc2.res"
 "D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
