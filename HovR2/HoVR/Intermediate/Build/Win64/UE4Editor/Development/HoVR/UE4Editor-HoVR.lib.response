@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HoVR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\HoVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\CreatingSourceFolder.cpp.obj"
+"D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\HoVR.cpp.obj"
+"D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\Default.rc2.res"
+/OUT:"D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\UE4Editor-HoVR.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\HoVR-3.0\\HovR2\\HoVR\\Source\\HoVR\\HoVR.Build.cs",
+		"D:\\HoVR-3.0\\HovR2\\HoVR\\Source\\HoVR.Target.cs",
+		"D:\\HoVR-3.0\\HovR2\\HoVR\\Source\\HoVREditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,2 @@
+D:\HoVR-3.0\HovR2\HoVR\Intermediate\Build\Win64\UE4Editor\Development\HoVR\Definitions.HoVR.h
+D:\HoVR-3.0\HovR2\HoVR\Source\HoVR\HoVR.h
