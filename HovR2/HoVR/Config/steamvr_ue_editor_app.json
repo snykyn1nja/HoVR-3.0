@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.third-person-bp-game-template-18319896.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/Tank/Documents/HoVR/GitHub/HovR2/HoVR/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/HoVR-3.0/HovR2/HoVR/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
