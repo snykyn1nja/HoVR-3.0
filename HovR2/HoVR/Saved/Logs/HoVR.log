@@ -908,3 +908,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.29-12.21.14:040][293]AssetCheck: New page: Asset Save: Minimal_Default
 [2022.04.29-12.21.14:040][293]LogContentValidation: Display: Validating World /Game/Map/Minimal_Default.Minimal_Default
 [2022.04.29-12.21.16:207][353]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.29-12.27.35:629][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Minimal_Default" FILE="D:/HoVR-3.0/HovR2/HoVR/Content/Map/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-12.27.35:638][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.29-12.27.43:912][532]LogSavePackage: Moving 'D:/HoVR-3.0/HovR2/HoVR/Saved/Minimal_Default0761B25E42C9B7392DAC51921F2BDB93.tmp' to 'D:/HoVR-3.0/HovR2/HoVR/Content/Map/Minimal_Default.umap'
+[2022.04.29-12.27.43:948][532]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.04.29-12.27.43:948][532]LogContentValidation: Display: Validating World /Game/Map/Minimal_Default.Minimal_Default
+[2022.04.29-12.28.02:062][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Minimal_Default" FILE="D:/HoVR-3.0/HovR2/HoVR/Content/Map/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-12.28.02:069][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.04.29-12.28.10:158][793]LogSavePackage: Moving 'D:/HoVR-3.0/HovR2/HoVR/Saved/Minimal_DefaultAC611FB94E40D2CD9F0879A2EF9588C2.tmp' to 'D:/HoVR-3.0/HovR2/HoVR/Content/Map/Minimal_Default.umap'
+[2022.04.29-12.28.10:197][793]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.04.29-12.28.10:197][793]LogContentValidation: Display: Validating World /Game/Map/Minimal_Default.Minimal_Default
+[2022.04.29-12.28.12:768][870]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.28.12:781][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.29-12.28.23:826][968]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.28.23:840][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.04.29-12.28.53:246][213]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.28.53:261][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.04.29-12.29.04:607][312]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.29.04:626][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.04.29-12.29.14:923][400]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.29.14:939][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.04.29-12.29.40:799][535]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.29.40:818][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.04.29-12.30.16:178][743]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.04.29-12.30.16:178][743]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.04.29-12.30.16:179][743]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2022.04.29-12.30.17:490][878]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Map/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2022.04.29-12.30.18:135][878]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.04.29-12.30.18:963][878]LogSlate: Took 0.003405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.29-12.30.33:104][260]BlueprintLog: New page: Compile Minimal_Default
+[2022.04.29-12.30.33:299][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.04.29-12.30.33:352][260]LogSlate: Took 0.000505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.29-12.30.36:111][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Minimal_Default" FILE="D:/HoVR-3.0/HovR2/HoVR/Content/Map/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-12.30.36:135][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.04.29-12.30.44:799][292]LogSavePackage: Moving 'D:/HoVR-3.0/HovR2/HoVR/Saved/Minimal_Default8F7B3224435B72A4F182D4A4A7968FF4.tmp' to 'D:/HoVR-3.0/HovR2/HoVR/Content/Map/Minimal_Default.umap'
+[2022.04.29-12.30.44:823][292]LogFileHelpers: Saving map 'Minimal_Default' took 8.713
+[2022.04.29-12.30.44:849][292]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.04.29-12.30.44:849][292]LogContentValidation: Display: Validating World /Game/Map/Minimal_Default.Minimal_Default
+[2022.04.29-12.30.47:549][301]LogSlate: Window 'Minimal_Default' being destroyed
+[2022.04.29-12.30.47:557][301]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.29-12.30.47:557][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.29-12.30.49:590][366]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.30.49:625][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.29-12.31.40:989][579]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.31.41:016][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.04.29-12.31.58:147][737]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.31.58:172][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.04.29-12.32.10:596][847]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.32.10:622][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.04.29-12.32.46:585][256]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Map/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2022.04.29-12.32.53:823][477]BlueprintLog: New page: Compile Minimal_Default
+[2022.04.29-12.32.53:966][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.04.29-12.32.55:073][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Minimal_Default" FILE="D:/HoVR-3.0/HovR2/HoVR/Content/Map/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-12.32.55:094][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.04.29-12.33.03:295][513]LogSavePackage: Moving 'D:/HoVR-3.0/HovR2/HoVR/Saved/Minimal_DefaultC6D51A8C4A15EECDF97164B9AEDBEE9D.tmp' to 'D:/HoVR-3.0/HovR2/HoVR/Content/Map/Minimal_Default.umap'
+[2022.04.29-12.33.03:316][513]LogFileHelpers: Saving map 'Minimal_Default' took 8.245
+[2022.04.29-12.33.03:342][513]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.04.29-12.33.03:342][513]LogContentValidation: Display: Validating World /Game/Map/Minimal_Default.Minimal_Default
+[2022.04.29-12.33.08:231][675]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.33.08:255][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.04.29-12.33.20:181][768]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.33.20:209][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.04.29-12.33.30:491][857]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.33.30:519][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.04.29-12.33.40:881][949]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.33.40:911][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.04.29-12.33.52:916][ 44]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.33.52:947][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.04.29-12.34.03:287][134]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.34.03:318][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.04.29-12.34.25:436][265]LogTemp: Repeating last play command: Standalone Game
+[2022.04.29-12.34.25:466][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.04.29-12.34.53:619][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Minimal_Default" FILE="D:/HoVR-3.0/HovR2/HoVR/Content/Map/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-12.34.53:640][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.29-12.35.01:896][477]LogSavePackage: Moving 'D:/HoVR-3.0/HovR2/HoVR/Saved/Minimal_Default2E89F6A141581591EDE686836D1F9A23.tmp' to 'D:/HoVR-3.0/HovR2/HoVR/Content/Map/Minimal_Default.umap'
+[2022.04.29-12.35.01:938][477]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.04.29-12.35.01:938][477]LogContentValidation: Display: Validating World /Game/Map/Minimal_Default.Minimal_Default
