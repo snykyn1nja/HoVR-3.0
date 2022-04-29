@@ -9150,3 +9150,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.29-06.55.03:851][  8]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/PoliceBuildingNew_Police7064101F4DA58EB07AFC1F9303846460.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/ArtAssets/Jimmy_s_Models/PoliceBuilding/PoliceBuildingNew_Police.uasset'
 [2022.04.29-06.55.03:862][  8]AssetCheck: New page: Asset Save: PoliceBuildingNew_Police
 [2022.04.29-06.55.03:862][  8]LogContentValidation: Display: Validating StaticMesh /Game/ArtAssets/Jimmy_s_Models/PoliceBuilding/PoliceBuildingNew_Police.PoliceBuildingNew_Police
+[2022.04.29-07.27.26:297][ 38]LogContentBrowser: Attempting asset rename: Map -> OldMap
+[2022.04.29-07.27.26:343][ 38]LogLinker: Warning: [AssetLog] F:\Map\HoVR-3.0\HovR2\HoVR\Content\Map\DirtRoad.uasset: Failed to load '/Game/StarterContent/Shapes/Road_DefaultMaterial_OcclusionRoughnessMetallic_1001': Can't find file.
+[2022.04.29-07.27.26:343][ 38]LogLinker: Warning: [AssetLog] F:\Map\HoVR-3.0\HovR2\HoVR\Content\Map\DirtRoad.uasset: Failed to load '/Game/StarterContent/Shapes/Road_DefaultMaterial_OcclusionRoughnessMetallic_1001': Can't find file.
+[2022.04.29-07.27.26:343][ 38]LogLinker: Warning: [AssetLog] F:\Map\HoVR-3.0\HovR2\HoVR\Content\Map\DirtRoad.uasset: Failed to load '/Game/StarterContent/Shapes/Road_DefaultMaterial_OcclusionRoughnessMetallic_1001': Can't find file.
+[2022.04.29-07.27.26:344][ 38]LogLinker: Warning: [AssetLog] F:\Map\HoVR-3.0\HovR2\HoVR\Content\Map\DirtRoad.uasset: Failed to load '/Game/StarterContent/Shapes/Road_DefaultMaterial_OcclusionRoughnessMetallic_1001': Can't find file.
+[2022.04.29-07.27.26:344][ 38]LoadErrors: Failed to load /Game/StarterContent/Shapes/Road_DefaultMaterial_OcclusionRoughnessMetallic_1001.Road_DefaultMaterial_OcclusionRoughnessMetallic_1001 Referenced by DirtRoad
+[2022.04.29-07.27.26:344][ 38]LogLinker: Warning: [AssetLog] F:\Map\HoVR-3.0\HovR2\HoVR\Content\Map\DirtRoad.uasset: Failed to load '/Game/StarterContent/Shapes/Road_DefaultMaterial_OcclusionRoughnessMetallic_1001': Can't find file.
+[2022.04.29-07.27.26:345][ 38]LoadErrors: Failed to load /Game/StarterContent/Shapes/Road_DefaultMaterial_OcclusionRoughnessMetallic_1001.Road_DefaultMaterial_OcclusionRoughnessMetallic_1001 Referenced by MaterialExpressionTextureSample_0
+[2022.04.29-07.27.26:346][ 38]LogMaterial: Display: Missing cached shadermap for DirtRoad in PCD3D_SM5, Default, SM5 (DDC key hash: FA650B80F5E791F280EC9FEBBABC81C31B72F7E8), compiling. 
+[2022.04.29-07.27.26:347][ 38]LogMaterial: Warning: [AssetLog] F:\Map\HoVR-3.0\HovR2\HoVR\Content\Map\DirtRoad.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.29-07.27.26:347][ 38]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.29-07.27.26:936][ 38]LogTexture: Display: Building textures: Road_DefaultMaterial_Normal_1001 (OODLE_BC5, 2048X2048)
+[2022.04.29-07.27.26:936][ 38]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.29-07.27.26:936][ 38]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.29-07.27.26:936][ 38]LogLinker: Warning: [AssetLog] F:\Map\HoVR-3.0\HovR2\HoVR\Content\Map\Shape_Cube.uasset: Failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.04.29-07.27.26:936][ 38]LogLinker: Warning: [AssetLog] F:\Map\HoVR-3.0\HovR2\HoVR\Content\Map\Shape_Cube.uasset: Failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.04.29-07.27.26:936][ 38]LogLinker: Warning: [AssetLog] F:\Map\HoVR-3.0\HovR2\HoVR\Content\Map\Shape_Cube.uasset: Failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.04.29-07.27.26:937][ 38]LogLinker: Warning: [AssetLog] F:\Map\HoVR-3.0\HovR2\HoVR\Content\Map\Shape_Cube.uasset: Failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.04.29-07.27.26:937][ 38]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cube
+[2022.04.29-07.27.28:899][ 38]LogMetaData: Removing '/Game/OldMap/Minimal_Default.Minimal_Default_C' ref from Metadata '/Game/Map/Minimal_Default.PackageMetaData'
+[2022.04.29-07.27.28:899][ 38]LogMetaData: Removing '/Game/OldMap/Minimal_Default.SKEL_Minimal_Default_C' ref from Metadata '/Game/Map/Minimal_Default.PackageMetaData'
+[2022.04.29-07.27.28:928][ 38]LogMetaData: Removing '/Game/OldMap/Road.Road' ref from Metadata '/Game/Map/Road.PackageMetaData'
+[2022.04.29-07.27.29:371][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/Minimal_Default" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.29-07.27.29:380][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.04.29-07.27.40:996][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/Minimal_Default7BE5B291449505FE929B9B8172BBFA1E.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Minimal_Default.umap'
+[2022.04.29-07.27.41:024][ 38]LogFileHelpers: Saving map 'Minimal_Default' took 11.656
+[2022.04.29-07.27.41:033][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/DirtierRoad" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/DirtierRoad.uasset" SILENT=true
+[2022.04.29-07.27.41:045][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/DirtierRoad7007FC8547D01AB93D7C00BF3D83568D.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/DirtierRoad.uasset'
+[2022.04.29-07.27.41:056][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/DirtRoad" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/DirtRoad.uasset" SILENT=true
+[2022.04.29-07.27.41:064][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/DirtRoad8CCF684249A586C85397EC8C678C1503.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/DirtRoad.uasset'
+[2022.04.29-07.27.41:101][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/M_Ground_Grass" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/M_Ground_Grass.uasset" SILENT=true
+[2022.04.29-07.27.41:111][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/M_Ground_GrassED555A4043D9A06A77FDA4BF55C4C7BA.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/M_Ground_Grass.uasset'
+[2022.04.29-07.27.41:124][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/Road" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road.uasset" SILENT=true
+[2022.04.29-07.27.41:131][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/RoadFF835E884F5B5148CBA859BBDAE67DA8.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road.uasset'
+[2022.04.29-07.27.41:141][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/Road_2" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_2.uasset" SILENT=true
+[2022.04.29-07.27.41:148][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/Road_236E1AE8B4BCD23C225F2C1A1F65423E1.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_2.uasset'
+[2022.04.29-07.27.41:161][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/Road_3" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_3.uasset" SILENT=true
+[2022.04.29-07.27.41:168][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/Road_3AAF26E9B410713218BAB27A6ECE65F60.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_3.uasset'
+[2022.04.29-07.27.41:178][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/Road_4" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_4.uasset" SILENT=true
+[2022.04.29-07.27.41:232][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/Road_43DD1E1A74A3571728B0320839E45A5F5.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_4.uasset'
+[2022.04.29-07.27.41:244][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/Road_Default" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_Default.uasset" SILENT=true
+[2022.04.29-07.27.41:250][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/Road_Default34F30BBC42363431366340B3AD0811CB.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_Default.uasset'
+[2022.04.29-07.27.41:257][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/Road_DefaultMaterial_BaseColor_1001" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_DefaultMaterial_BaseColor_1001.uasset" SILENT=true
+[2022.04.29-07.27.41:264][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/Road_DefaultMaterial_BaseColor_1CC9BE8A94159AE10ECC279A97C0F5A6A.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_DefaultMaterial_BaseColor_1001.uasset'
+[2022.04.29-07.27.41:272][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/Road_DefaultMaterial_DirtPath_1001" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_DefaultMaterial_DirtPath_1001.uasset" SILENT=true
+[2022.04.29-07.27.41:493][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/Road_DefaultMaterial_DirtPath_105447BA9F41BCA99D9ABEE7AFF40D896B.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_DefaultMaterial_DirtPath_1001.uasset'
+[2022.04.29-07.27.41:500][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/Road_DefaultMaterial_Normal_1001" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_DefaultMaterial_Normal_1001.uasset" SILENT=true
+[2022.04.29-07.27.41:574][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/Road_DefaultMaterial_Normal_100169C5A051488F531E08B641AF91332FCE.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_DefaultMaterial_Normal_1001.uasset'
+[2022.04.29-07.27.41:611][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/Road_DefaultMaterial_OcclusionRoBD8EACA448AF7887419288AC573109FF.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Road_DefaultMaterial_OcclusionRoughnessMetallic_1001.uasset'
+[2022.04.29-07.27.41:623][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/Shape_Cube" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Shape_Cube.uasset" SILENT=true
+[2022.04.29-07.27.41:632][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/Shape_Cube75A1E35C43974DEE6E89F28DE1646419.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/Shape_Cube.uasset'
+[2022.04.29-07.27.41:638][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OldMap/T_Ground_Grass_D" FILE="F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/T_Ground_Grass_D.uasset" SILENT=true
+[2022.04.29-07.27.41:771][ 38]LogSavePackage: Moving 'F:/Map/HoVR-3.0/HovR2/HoVR/Saved/T_Ground_Grass_D174EF61742CD92D9A6C89FB0B899C128.tmp' to 'F:/Map/HoVR-3.0/HovR2/HoVR/Content/OldMap/T_Ground_Grass_D.uasset'
+[2022.04.29-07.27.41:903][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.29-07.27.41:913][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.29-07.27.41:920][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.04.29-07.27.41:929][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.29-07.27.41:938][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.04.29-07.27.41:946][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.29-07.27.41:954][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.29-07.27.41:962][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.29-07.27.41:970][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.29-07.27.41:979][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.29-07.27.41:987][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.29-07.27.41:994][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.29-07.27.42:003][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.04.29-07.27.42:012][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.04.29-07.27.42:021][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.04.29-07.27.42:035][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.04.29-07.27.42:043][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.04.29-07.27.42:430][ 38]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating World /Game/OldMap/Minimal_Default.Minimal_Default
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating StaticMesh /Game/OldMap/Road_3.Road_3
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating StaticMesh /Game/OldMap/Road_2.Road_2
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating StaticMesh /Game/OldMap/Road.Road
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating StaticMesh /Game/OldMap/Shape_Cube.Shape_Cube
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating Material /Game/OldMap/Road_Default.Road_Default
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating Texture2D /Game/OldMap/Road_DefaultMaterial_BaseColor_1001.Road_DefaultMaterial_BaseColor_1001
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating Texture2D /Game/OldMap/Road_DefaultMaterial_OcclusionRoughnessMetallic_1001.Road_DefaultMaterial_OcclusionRoughnessMetallic_1001
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating Texture2D /Game/OldMap/Road_DefaultMaterial_Normal_1001.Road_DefaultMaterial_Normal_1001
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating StaticMesh /Game/OldMap/Road_4.Road_4
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating Material /Game/OldMap/M_Ground_Grass.M_Ground_Grass
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating Texture2D /Game/OldMap/T_Ground_Grass_D.T_Ground_Grass_D
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating Material /Game/OldMap/DirtRoad.DirtRoad
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating Material /Game/OldMap/DirtierRoad.DirtierRoad
+[2022.04.29-07.27.42:430][ 38]LogContentValidation: Display: Validating Texture2D /Game/OldMap/Road_DefaultMaterial_DirtPath_1001.Road_DefaultMaterial_DirtPath_1001
